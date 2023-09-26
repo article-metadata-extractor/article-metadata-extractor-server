@@ -15,3 +15,13 @@ After that you can start the server throught that:
 ```shell
 npm run start
 ```
+
+The default port is `3000`. If you want to run it in other port you can define the `PORT` environment variable. 
+
+```shell
+PORT=3008 npm run start
+```
+
+### Docs
+
+You can access the path `/docs` to get access to Swagger Docs.
