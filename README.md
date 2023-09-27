@@ -1,6 +1,6 @@
 # Article Metadata Extractor Server
 
-HTTP Server in Node.js to provide an API to return the result of [Article Metadata Extractor](https://github.com/mathiasgheno/article-metadata-extractor/). 
+HTTP Server in Node.js to provide an API to return the result of [Article Metadata Extractor](https://github.com/mathiasgheno/article-metadata-extractor/). It is designed to be used in Node.js 18+.
 
 ### Usage
 
@@ -25,3 +25,7 @@ PORT=3008 npm run start
 ### Docs
 
 You can access the path `/docs` to get access to Swagger Docs.
+
+## Licence
+
+This code is released under the MIT License.
